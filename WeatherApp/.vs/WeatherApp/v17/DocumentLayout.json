@@ -1,0 +1,91 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\marcel.fischer\\Projekte\\learndotnet\\Project03wpf\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FBC2B97B-4467-4304-BB44-7BAD88695039}|Project03wpf.csproj|c:\\users\\marcel.fischer\\projekte\\learndotnet\\project03wpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBC2B97B-4467-4304-BB44-7BAD88695039}|Project03wpf.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBC2B97B-4467-4304-BB44-7BAD88695039}|Project03wpf.csproj|c:\\users\\marcel.fischer\\projekte\\learndotnet\\project03wpf\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBC2B97B-4467-4304-BB44-7BAD88695039}|Project03wpf.csproj|solutionrelative:main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBC2B97B-4467-4304-BB44-7BAD88695039}|WeatherApp.csproj|c:\\users\\marcel.fischer\\projekte\\learndotnet\\project03wpf\\weatherapp.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{FBC2B97B-4467-4304-BB44-7BAD88695039}|WeatherApp.csproj|solutionrelative:weatherapp.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBC2B97B-4467-4304-BB44-7BAD88695039}|Project03wpf.csproj|c:\\users\\marcel.fischer\\projekte\\learndotnet\\project03wpf\\weathermapresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBC2B97B-4467-4304-BB44-7BAD88695039}|Project03wpf.csproj|solutionrelative:weathermapresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\marcel.fischer\\Projekte\\learndotnet\\Project03wpf\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\marcel.fischer\\Projekte\\learndotnet\\Project03wpf\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAiwCkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T10:51:32.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Project03wpf",
+              "DocumentMoniker": "C:\\Users\\marcel.fischer\\Projekte\\learndotnet\\Project03wpf\\WeatherApp.csproj",
+              "RelativeDocumentMoniker": "WeatherApp.csproj",
+              "ToolTip": "C:\\Users\\marcel.fischer\\Projekte\\learndotnet\\Project03wpf\\WeatherApp.csproj",
+              "RelativeToolTip": "WeatherApp.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-18T10:50:58.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Main.cs",
+              "DocumentMoniker": "C:\\Users\\marcel.fischer\\Projekte\\learndotnet\\Project03wpf\\Main.cs",
+              "RelativeDocumentMoniker": "Main.cs",
+              "ToolTip": "C:\\Users\\marcel.fischer\\Projekte\\learndotnet\\Project03wpf\\Main.cs",
+              "RelativeToolTip": "Main.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T10:36:15.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WeatherMapResponse.cs",
+              "DocumentMoniker": "C:\\Users\\marcel.fischer\\Projekte\\learndotnet\\Project03wpf\\WeatherMapResponse.cs",
+              "RelativeDocumentMoniker": "WeatherMapResponse.cs",
+              "ToolTip": "C:\\Users\\marcel.fischer\\Projekte\\learndotnet\\Project03wpf\\WeatherMapResponse.cs",
+              "RelativeToolTip": "WeatherMapResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T10:35:57.91Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
